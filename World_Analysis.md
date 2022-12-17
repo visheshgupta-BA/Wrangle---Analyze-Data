@@ -1,4 +1,4 @@
-# Wrangle---Analyze-Data
+# |Data Wrangling|
 # Analysis of Annaul Growth rate and death rate of Countries.
 
 In this study we are going to look at the data which consists of crude death rate (deaths per 1000 population) of the countries and the annaul growth of the country. We will look at visual representation and see how the relationship can be seen in between these two. We also look at these graphs individually to understand the patterns and give insights.
